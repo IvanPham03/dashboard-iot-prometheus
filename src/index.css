@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --color-main-background: rgba(0, 0, 0, 0.5);
+    --color-search-bar: rgba(21, 21, 21, 1);
+    --color-search-text: rgba(255, 255, 255, 0.5);
+}
